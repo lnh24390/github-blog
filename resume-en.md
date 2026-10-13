@@ -4,7 +4,7 @@ Entry-Level QA Candidate
 
 ## Profile
 
-I am an entry-level candidate with experience in QA and quality inspection, along with knowledge of Android and algorithms. I understand office automation tasks and can adapt quickly to new work. I bring a proactive, diligent attitude and a commitment to continuous learning.
+I am an entry-level candidate who gained experience in QA and quality inspection during university, with knowledge of Android and algorithms. I understand office automation tasks and can adapt quickly to new work. I bring a proactive, diligent attitude and a commitment to continuous learning.
 
 I aim to contribute to successful projects through teamwork and problem solving, helping improve work efficiency. I welcome new challenges and will work steadily toward my team's goals.
 
