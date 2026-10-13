@@ -11,6 +11,7 @@ QA 신입 지원자
 ## 기본 정보
 
 - 이메일: [nh24390@naver.com](mailto:nh24390@naver.com)
+- GitHub 연동 이메일: [lnh24390@gmail.com](mailto:lnh24390@gmail.com)
 
 - 성별: 남성
 - 생년월일: 2003년 7월 30일

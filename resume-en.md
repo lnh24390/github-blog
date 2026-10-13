@@ -11,6 +11,7 @@ I aim to contribute to successful projects through teamwork and problem solving,
 ## Personal Details
 
 - Email: [nh24390@naver.com](mailto:nh24390@naver.com)
+- GitHub account email: [lnh24390@gmail.com](mailto:lnh24390@gmail.com)
 
 - Gender: Male
 - Date of birth: July 30, 2003
