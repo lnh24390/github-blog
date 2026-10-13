@@ -10,6 +10,8 @@ I aim to contribute to successful projects through teamwork and problem solving,
 
 ## Personal Details
 
+- Email: [nh24390@naver.com](mailto:nh24390@naver.com)
+
 - Gender: Male
 - Date of birth: July 30, 2003
 - Age: 23, as stated in the original résumé
