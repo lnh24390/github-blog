@@ -2,7 +2,7 @@
 
 QA 신입 지원을 위한 이력서, 프로젝트와 학습 기록을 소개하는 개인 블로그입니다. 한국어와 English를 지원합니다.
 
-**[블로그 바로가기](https://lnh24390.github.io/)** · **[이력서 목록](https://lnh24390.github.io/resumes.html?language=ko)** · **[포트폴리오](https://lnh24390.github.io/portfolio.html?language=ko)**
+**[블로그 바로가기](https://lnh24390.github.io/lnh24390.github_blog.io/)** · **[이력서 목록](https://lnh24390.github.io/lnh24390.github_blog.io/resumes.html?language=ko)** · **[포트폴리오](https://lnh24390.github.io/lnh24390.github_blog.io/portfolio.html?language=ko)**
 
 ## 주요 기능
 
@@ -51,7 +51,7 @@ HTML, CSS와 JavaScript로 구성한 정적 사이트이며 GitHub Pages로 게�
 
 - 게시 브랜치: `main`
 - 게시 폴더: `/(root)`
-- 사이트 주소: https://lnh24390.github.io/
+- 사이트 주소: https://lnh24390.github.io/lnh24390.github_blog.io/
 
 `main`에 변경 사항을 저장하면 GitHub Pages가 새 버전을 게시합니다. 게시 진행 상황은 저장소의 Actions에서 확인할 수 있습니다.
 
