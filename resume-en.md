@@ -16,7 +16,7 @@ I aim to contribute to successful projects through teamwork and problem solving,
 - Education: Graduate of a four-year university program
 - Major: Computer Engineering, advanced major program
 - Formal employment history: Not listed in the original résumé
-- Desired annual salary: KRW 30,000,000–32,000,000
+- Desired annual salary: $22,416.50–$26,166.27
 - Portfolio: Not listed in the original résumé
 
 ## Skills
