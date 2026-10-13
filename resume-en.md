@@ -32,13 +32,13 @@ Programming and computing subjects studied: Python, C, Java, Linux, C++, and sec
 
 ### Hankyong National University
 
-March 2025–February 2026 · Gyeonggi-do, South Korea
+March 2025–February 2026 · Gyeonggi-do, Republic of Korea
 
 Computer Engineering, advanced major program. Transferred into the program and graduated. Four-year university program.
 
 ### Korea National University of Welfare
 
-February 2022–February 2025 · Gyeonggi-do, South Korea
+February 2022–February 2025 · Gyeonggi-do, Republic of Korea
 
 AI Semiconductor Convergence. Graduated from a two- to three-year college program.
 
