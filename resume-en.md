@@ -10,6 +10,8 @@ I aim to contribute to successful projects through teamwork and problem solving,
 
 ## Personal Details
 
+- Universities: Korea National University of Welfare; Hankyong National University
+
 - Email: [nh24390@naver.com](mailto:nh24390@naver.com)
 - GitHub account email: [lnh24390@gmail.com](mailto:lnh24390@gmail.com)
 

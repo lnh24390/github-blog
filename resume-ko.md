@@ -10,6 +10,8 @@ QA 신입 지원자
 
 ## 기본 정보
 
+- 대학교: 한국복지대학교, 한경국립대학교
+
 - 이메일: [nh24390@naver.com](mailto:nh24390@naver.com)
 - GitHub 연동 이메일: [lnh24390@gmail.com](mailto:lnh24390@gmail.com)
 
