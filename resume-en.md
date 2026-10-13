@@ -13,8 +13,7 @@ I aim to contribute to successful projects through teamwork and problem solving,
 - Universities: Korea National University of Welfare; Hankyong National University
 - University merger: Korea National University of Welfare and Hankyong University merged on March 1, 2023, to form Hankyong National University.
 
-- Email: [nh24390@naver.com](mailto:nh24390@naver.com)
-- GitHub account email: [lnh24390@gmail.com](mailto:lnh24390@gmail.com)
+- Email: [nh24390@naver.com](mailto:nh24390@naver.com), [lnh24390@gmail.com](mailto:lnh24390@gmail.com)
 
 - Gender: Male
 - Date of birth: July 30, 2003

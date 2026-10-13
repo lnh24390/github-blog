@@ -13,8 +13,7 @@ QA 신입 지원자
 - 대학교: 한국복지대학교, 한경국립대학교
 - 대학 통합: 한국복지대학교와 한경대학교는 2023년 3월 1일 통합되어 한경국립대학교가 되었습니다.
 
-- 이메일: [nh24390@naver.com](mailto:nh24390@naver.com)
-- GitHub 연동 이메일: [lnh24390@gmail.com](mailto:lnh24390@gmail.com)
+- 이메일: [nh24390@naver.com](mailto:nh24390@naver.com), [lnh24390@gmail.com](mailto:lnh24390@gmail.com)
 
 - 성별: 남성
 - 생년월일: 2003년 7월 30일
