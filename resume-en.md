@@ -11,7 +11,7 @@ I aim to contribute to successful projects through teamwork and problem solving,
 ## Personal Details
 
 - Gender: Male
-- Year of birth: 2003
+- Date of birth: July 30, 2003
 - Age: 23, as stated in the original résumé
 - Education: Graduate of a four-year university program
 - Major: Computer Engineering, advanced major program
