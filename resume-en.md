@@ -15,9 +15,6 @@ I aim to contribute to successful projects through teamwork and problem solving,
 
 - Email: [nh24390@naver.com](mailto:nh24390@naver.com), [lnh24390@gmail.com](mailto:lnh24390@gmail.com)
 
-- Gender: Male
-- Date of birth: July 30, 2003
-- Age: 23, as stated in the original résumé
 - Education: Graduate of a four-year university program
 - Major: AI Semiconductor Convergence (Associate Degree)
 - Major: Computer Engineering (Bachelor’s Degree through an Advanced Major Program)
