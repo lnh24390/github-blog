@@ -17,7 +17,8 @@ I aim to contribute to successful projects through teamwork and problem solving,
 - Date of birth: July 30, 2003
 - Age: 23, as stated in the original résumé
 - Education: Graduate of a four-year university program
-- Major: Computer Engineering, advanced major program
+- Major: AI Semiconductor Convergence (Associate Degree)
+- Major: Computer Engineering (Bachelor’s Degree through an Advanced Major Program)
 - Formal employment history: Not listed in the original résumé
 - Desired annual salary: $22,416.50–$26,166.27
 - Portfolio: Not listed in the original résumé
