@@ -18,9 +18,9 @@ I aim to contribute to successful projects through teamwork and problem solving,
 - Education: Graduate of a four-year university program
 - Major: AI Semiconductor Convergence (Associate Degree)
 - Major: Computer Engineering (Bachelor’s Degree through an Advanced Major Program)
-- Formal employment history: Not listed in the original résumé
-- Desired annual salary: $22,416.50–$26,166.27
-- Portfolio: Not listed in the original résumé
+- Formal employment history: None (entry-level candidate)
+- Desired annual salary: KRW 32,000,000–34,000,000
+- Portfolio: See the blog portfolio page
 
 ## Skills
 
@@ -44,13 +44,13 @@ AI Semiconductor Convergence. Graduated from a two- to three-year college progra
 
 ## Experience, Activities, and Training
 
-- **Specialized AI Data Labeling Training** — Hankyong National University, June–October 2024.
-- **Third Entrepreneurship Academy** — Rolling Hills Hotel, Hwaseong, November 12–14, 2025.
-- **Employment Camp and Recruitment Information Session for University Students with Disabilities** — Hyundai Bloomvista, August 18–20, 2025.
+- **Specialized AI Data Labeling Training** — Disabled Enterprise Business Center, June–October 2024.
+- **Third Entrepreneurship Academy** — Disabled Enterprise Business Center, November 12–14, 2025.
+- **Employment Camp and Recruitment Information Session for University Students with Disabilities** — Our Story Co., Ltd., August 18–20, 2025.
 - **Class 4 Unmanned Powered Aircraft Training, Unmanned Multicopter** — Korea Transportation Safety Authority, September 18–October 16, 2023.
 - **Academic Studies** — March 2022–February 2026. I entered Korea National University of Welfare and graduated from Hankyong National University. In AI Semiconductor Convergence, I studied programming languages including Python, C, and Java. I then chose the advanced Computer Engineering program and studied Linux, C++, security, and other computing subjects.
 - **MOS Certification Preparation** — Gyeonggi Southern Vocational Competency Development Institute, January–March 2026.
-- **AI Data Analysis Training** — Gyeonggi Southern Vocational Competency Development Institute, April 2026–March 2027, or until employment, as stated in the original résumé.
+- **AI Data Analysis Training** — Gyeonggi Southern Vocational Competency Development Institute, In progress since April 2026; scheduled through March 2027 or until employment.
 
 ## Certifications
 
